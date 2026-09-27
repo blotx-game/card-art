@@ -1,0 +1,20 @@
+<!--
+  Based on "Vector Playing Cards 2.0" by Chris Aguilar
+  (https://sourceforge.net/projects/vector-cards/).
+  Modified by Blot X LLC, 2026. Licensed under the GNU LGPL, version 3.
+  See LICENSE and README.md in https://github.com/blotx-game/card-art
+-->
+<svg width="237.047" height="331.535" viewBox="0 0 237.047 331.535" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="deck/vector-standard">
+<g id="cards">
+<g id="card/diamonds/A">
+<path id="bg" d="M0 0H237.047V331.535H0V0Z" fill="white" style="fill:white;fill-opacity:1;"/>
+<path id="suit/top" d="M18.2851 74.3975C15.9903 70.6031 13.5762 66.9152 10.5593 63.7649C13.5762 60.6147 15.9903 56.9268 18.2851 53.1323C20.5798 56.9268 22.9939 60.6147 26.0108 63.7649C22.9939 66.9152 20.5798 70.6031 18.2851 74.3975Z" fill="#D40000" style="fill:#D40000;fill:color(display-p3 0.8314 0.0000 0.0000);fill-opacity:1;"/>
+<path id="suit/bottom" d="M218.762 278.403C216.467 274.608 214.053 270.921 211.036 267.77C214.053 264.62 216.467 260.932 218.762 257.138C221.057 260.932 223.471 264.62 226.488 267.77C223.471 270.921 221.057 274.608 218.762 278.403Z" fill="#D40000" style="fill:#D40000;fill:color(display-p3 0.8314 0.0000 0.0000);fill-opacity:1;"/>
+<path id="pip/1" d="M118.523 218.768C107.085 199.854 95.0513 181.471 80.013 165.768C95.0513 150.065 107.085 131.682 118.523 112.768C129.962 131.682 141.996 150.065 157.034 165.768C141.996 181.471 129.962 199.854 118.523 218.768Z" fill="#D40000" style="fill:#D40000;fill:color(display-p3 0.8314 0.0000 0.0000);fill-opacity:1;"/>
+<path id="index/top" d="M7.56818 49.7989V46.7987H10.4271L16.5176 14.7114H19.984L26.693 46.7987H29.0017V49.7989H21.1349V46.7987H23.258L22.4102 41.8815H14.4738L13.8608 46.7987H15.9838V49.7989H7.56818ZM21.733 38.3788L18.2829 21.2046L15.0513 38.3788H21.733Z" fill="#D40000" style="fill:#D40000;fill:color(display-p3 0.8314 0.0000 0.0000);fill-opacity:1;"/>
+<path id="index/bottom" d="M208.045 281.737V284.737H210.904L216.995 316.824H220.461L227.17 284.737H229.479V281.737H221.612V284.737H223.735L222.887 289.654H214.951L214.338 284.737H216.461V281.737H208.045ZM222.21 293.157L218.76 310.331L215.528 293.157H222.21Z" fill="#D40000" style="fill:#D40000;fill:color(display-p3 0.8314 0.0000 0.0000);fill-opacity:1;"/>
+</g>
+</g>
+</g>
+</svg>
